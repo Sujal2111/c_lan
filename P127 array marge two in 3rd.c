@@ -37,7 +37,7 @@ main()
 	printf("\nMerge two array :");
 	for(i=0;i<k;i++)
 	{
-		printf("=>%d,",c[i]);
+		printf("%d,",c[i]);
 	}
 }
 
