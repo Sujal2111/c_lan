@@ -3,7 +3,7 @@ main()
 {
 	char alphabet[200];
 	int y,i,c=0;
-	char ch;
+	char ch; 
 	
 	printf("\nEnter the name =>");
 	gets(alphabet);

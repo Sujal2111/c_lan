@@ -14,10 +14,10 @@ main()
 	{
 		ch=name[i];
 		
-		if(ch==' ')
+		if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U')
 		{
 			c++;
 		}
 	}
-	printf("\nTotal spaces are %d",c);
+	printf("\nTotal vowel are %d",c);
 }
