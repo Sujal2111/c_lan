@@ -12,5 +12,5 @@ main()
 	
 	strcat(name," ");
 	strcat(name,sur_name);
-	printf("string after join operation is %s",name);
+	printf("string after join operation is =>%s",name);
 }

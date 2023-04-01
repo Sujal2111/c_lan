@@ -16,7 +16,7 @@ main()
 		
 		if(isupper(ch))
 		{
-			printf("\n%c",tolower(ch));
+			printf("%c",tolower(ch));
 		}
 		else if(islower(ch))
 		{
